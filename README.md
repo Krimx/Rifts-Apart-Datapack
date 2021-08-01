@@ -6,7 +6,7 @@ I haven't touched the pack in a while, both out of exhaustion and lack of ideas.
 Future updates will have:
 
 	-Combat levelling.
-	-Viewing level xp above the hotbar for a short period of time after you get some xp.
+	-Viewing level xp above the hotbar for a short period of time after you get some xp. (Done)
 	-(Maybe) improved crafting system.
 	-More items.
 	-Even more powerful items for end-game players.
