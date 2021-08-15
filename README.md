@@ -1,13 +1,8 @@
 # Rifts-Apart-Datapack
 Datapack for Rifts Apart Realm that will be updated
 
-I haven't touched the pack in a while, both out of exhaustion and lack of ideas. However, I have come up with a few ideas that I think will work out well.
+Rifts Apart v0.1 is finally finished. This verson focusses mainly on end-related items like a new sword that you get from endermen and armor drops from the dragon.
 
-Future updates will have:
+There is a recipe guide located in the folder. It isn't the best, but it certainly exists. (I hope you know how to zoom in.)
 
-	-Combat levelling.
-	-Viewing level xp above the hotbar for a short period of time after you get some xp. (Done)
-	-(Maybe) improved crafting system.
-	-More items.
-	-Even more powerful items for end-game players.
-	-Hopefully an in-game recipe guide (There are a lot of things to figure out with that.)
+v0.2 should have some Quality of Life changes, but I'm not too sure how I plan to implement a recipe guide into the game, so that feature has no real planned release. No spoilers for what's to come. 🤫🤫🤫
