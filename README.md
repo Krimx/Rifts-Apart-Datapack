@@ -30,15 +30,17 @@ Chapter 1 features:
   -Ender Cutlass; a new sword which is stronger than netherite (Yes sharpness works on it the damage increase just doesn't show. Idk it's just Minecraft.)
  
 Chapter 2 features:
+
+   
   
-    -Three NPCs from the three dimensions to give you exotic items.
+   -Three NPCs from the three dimensions to give you exotic items.
     
-    -Wither Armor and weapon
+   -Wither Armor and weapon
     
-    -Changed Ender Cutlass (More balanced recipe and more rewarding obtain)
+   -Changed Ender Cutlass (More balanced recipe and more rewarding obtain)
     
-    -Improve your items with reforge stones (Only works on items from the datapack until I decide if they should work with vanilla)
+   -Improve your items with reforge stones (Only works on items from the datapack until I decide if they should work with vanilla)
     
-    -Receive guidebook upon joining the world for the first time since importing the datapack. Should help you figure out how to advance.
+   -Receive guidebook upon joining the world for the first time since importing the datapack. Should help you figure out how to advance.
     
-    -Full implementation of Black Hole Maker
+   -Full implementation of Black Hole Maker
