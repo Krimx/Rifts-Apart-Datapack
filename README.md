@@ -1,13 +1,11 @@
 # Rifts-Apart-Datapack
-Datapack for Rifts Apart Realm that will be updated
+This is a datapack that I put down for a while, but picked back up recently.
 
-Rifts Apart v0.1 is finally finished. This verson focusses mainly on end-related items like a new sword that you get from endermen and armor drops from the dragon.
+Rifts Apart Chapter 2 is finally finished! Available for 1.18 versions!
 
-There is a recipe guide located in the folder. It isn't the best, but it certainly exists. (I hope you know how to zoom in.)
+The recipe guide is new and improved. The old recipe guide is still available if you find that you need it.
 
-v0.2 should have some Quality of Life changes, but I'm not too sure how I plan to implement a recipe guide into the game, so that feature has no real planned release. No spoilers for what's to come. 🤫🤫🤫
-
-Current features:
+Chapter 1 features:
 
   -Special Crafting Table for making the custom items.
   
@@ -30,3 +28,17 @@ Current features:
   -Use the Telebeam to teleport around the world with ease.
   
   -Ender Cutlass; a new sword which is stronger than netherite (Yes sharpness works on it the damage increase just doesn't show. Idk it's just Minecraft.)
+ 
+Chapter 2 features:
+  
+    -Three NPCs from the three dimensions to give you exotic items.
+    
+    -Wither Armor and weapon
+    
+    -Changed Ender Cutlass (More balanced recipe and more rewarding obtain)
+    
+    -Improve your items with reforge stones (Only works on items from the datapack until I decide if they should work with vanilla)
+    
+    -Receive guidebook upon joining the world for the first time since importing the datapack. Should help you figure out how to advance.
+    
+    -Full implementation of Black Hole Maker
