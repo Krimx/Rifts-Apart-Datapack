@@ -42,3 +42,17 @@ Chapter 2 features:
     -Receive guidebook upon joining the world for the first time since importing the datapack. Should help you figure out how to advance.
     
     -Full implementation of Black Hole Maker
+   
+Chapter 3 Features:
+
+    -New Silversmith to give you access to resources needed to make accessories (more to come).
+    
+    -New wands with special abilities.
+    
+    -New armor set: cloaks. A magic-themed set to enhance the mage lifestyle.
+    
+    -Beam Accelerator to enhance the telebeam.
+    
+    -Some early-game items to balance the datapack out.
+    
+    -Actually added access to the Wither Catalyst from chapter 2.
